@@ -1,2 +1,3 @@
 # lagerPongLua
-Lua experiments
+
+CoronaSDK ping pong experiments
